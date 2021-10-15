@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atsfranc
+- 👋 Hi, I’m francis!
 - 👀 I’m new to coding and programming!
 - 🌱 I’m currently learning HTML, CSS and JS
 
