@@ -1,6 +1,6 @@
-- 👋 Hi, I’m francis!
+- 👋 Hi, I’m Francis!
 - 👀 I’m new to coding and programming!
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently attending a bootcamp on Full Stack Development. 
 
 
 <!---
